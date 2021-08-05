@@ -1,0 +1,2090 @@
+1628080172103	geckodriver	INFO	Listening on 127.0.0.1:51256
+1628080172666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile9f4YNo"
+1628080173342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile9f4YNo\\search.json.mozlz4", (void 0)))
+1628080175825	Marionette	INFO	Listening on port 51261
+1628080175886	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628080175889	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51255","sslProxy":"127.0.0.1:51255"}
+1628080195709	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628080253180	Marionette	INFO	Stopped listening on port 51261
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628080470438	geckodriver	INFO	Listening on 127.0.0.1:59807
+1628080470998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilePXrHWo"
+*** You are running in headless mode.
+1628080471325	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilePXrHWo\\search.json.mozlz4", (void 0)))
+1628080472289	Marionette	INFO	Listening on port 59812
+1628080472529	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628080472531	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59806","sslProxy":"127.0.0.1:59806"}
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628081131629	geckodriver	INFO	Listening on 127.0.0.1:58601
+1628081132178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile2ehFPb"
+*** You are running in headless mode.
+1628081132457	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile2ehFPb\\search.json.mozlz4", (void 0)))
+1628081133423	Marionette	INFO	Listening on port 58606
+1628081133721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628081133724	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:58600","sslProxy":"127.0.0.1:58600"}
+1628081285782	geckodriver	INFO	Listening on 127.0.0.1:58755
+1628081286314	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile0wyNxR"
+*** You are running in headless mode.
+1628081286621	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile0wyNxR\\search.json.mozlz4", (void 0)))
+1628081287618	Marionette	INFO	Listening on port 58760
+1628081287853	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628081287855	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:58754","sslProxy":"127.0.0.1:58754"}
+1628081299695	geckodriver	INFO	Listening on 127.0.0.1:58872
+1628081300222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileyNzjC8"
+*** You are running in headless mode.
+1628081300509	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileyNzjC8\\search.json.mozlz4", (void 0)))
+1628081301666	Marionette	INFO	Listening on port 58877
+1628081301782	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628081301785	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:58871","sslProxy":"127.0.0.1:58871"}
+1628081814915	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+Listening on 127.0.0.1:50434
+1628082773506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilei486up"
+*** You are running in headless mode.
+1628082773804	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilei486up\\search.json.mozlz4", (void 0)))
+1628082774809	Marionette	INFO	Listening on port 50439
+1628082775061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628082775063	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50433","sslProxy":"127.0.0.1:50433"}
+1628083288195	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiledZmEj0"
+*** You are running in headless mode.
+1628082912370	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiledZmEj0\\search.json.mozlz4", (void 0)))
+1628082913570	Marionette	INFO	Listening on port 54818
+1628082913631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628082913633	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54812","sslProxy":"127.0.0.1:54812"}
+1628083426744	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+Exiting due to channel error.
+headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilevBy5hi"
+*** You are running in headless mode.
+1628082995703	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilevBy5hi\\search.json.mozlz4", (void 0)))
+1628082996696	Marionette	INFO	Listening on port 54937
+1628082996938	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628082996940	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54931","sslProxy":"127.0.0.1:54931"}
+1628083510038	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+Listening on 127.0.0.1:65471
+1628083529244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileF0pXe5"
+*** You are running in headless mode.
+1628083529549	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileF0pXe5\\search.json.mozlz4", (void 0)))
+1628083530591	Marionette	INFO	Listening on port 65476
+1628083530797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628083530799	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:65470","sslProxy":"127.0.0.1:65470"}
+1628083555302	geckodriver	INFO	Listening on 127.0.0.1:49204
+1628083555840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileT4AFJh"
+*** You are running in headless mode.
+1628083556167	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileT4AFJh\\search.json.mozlz4", (void 0)))
+1628083557240	Marionette	INFO	Listening on port 49209
+1628083557377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628083557379	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49203","sslProxy":"127.0.0.1:49203"}
+1628084070499	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+Listening on 127.0.0.1:49526
+1628084118792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile8YLorG"
+*** You are running in headless mode.
+1628084119117	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile8YLorG\\search.json.mozlz4", (void 0)))
+1628084120180	Marionette	INFO	Listening on port 49531
+1628084120340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628084120342	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49525","sslProxy":"127.0.0.1:49525"}
+1628084633477	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiled7Z7zY"
+*** You are running in headless mode.
+1628084542050	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiled7Z7zY\\search.json.mozlz4", (void 0)))
+1628084543287	Marionette	INFO	Listening on port 63836
+1628084543753	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628084543756	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63830","sslProxy":"127.0.0.1:63830"}
+1628085056414	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilezdxuA5"
+*** You are running in headless mode.
+1628084728497	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilezdxuA5\\search.json.mozlz4", (void 0)))
+1628084729661	Marionette	INFO	Listening on port 50848
+1628084729741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628084729743	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50842","sslProxy":"127.0.0.1:50842"}
+1628085242890	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileeEBIXi"
+*** You are running in headless mode.
+1628084979156	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileeEBIXi\\search.json.mozlz4", (void 0)))
+1628084980337	Marionette	INFO	Listening on port 53603
+1628084980389	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628084980391	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:55259","sslProxy":"127.0.0.1:55259"}
+1628085493542	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileosMcZi"
+*** You are running in headless mode.
+1628085034047	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileosMcZi\\search.json.mozlz4", (void 0)))
+1628085035235	Marionette	INFO	Listening on port 49297
+1628085035286	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628085035287	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:55658","sslProxy":"127.0.0.1:55658"}
+1628085548444	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileoz0r1i"
+*** You are running in headless mode.
+1628085089399	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileoz0r1i\\search.json.mozlz4", (void 0)))
+1628085090639	Marionette	INFO	Listening on port 50000
+1628085091124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628085091126	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49994","sslProxy":"127.0.0.1:49994"}
+1628085362586	geckodriver	INFO	Listening on 127.0.0.1:49405
+1628085363095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileP9fuFs"
+*** You are running in headless mode.
+1628085363432	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileP9fuFs\\search.json.mozlz4", (void 0)))
+1628085364687	Marionette	INFO	Listening on port 49410
+1628085365156	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628085365159	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49404","sslProxy":"127.0.0.1:49404"}
+1628085877823	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile7XruC2"
+*** You are running in headless mode.
+1628085420255	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile7XruC2\\search.json.mozlz4", (void 0)))
+1628085421488	Marionette	INFO	Listening on port 63061
+1628085421993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628085421995	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:63055","sslProxy":"127.0.0.1:63055"}
+1628085934678	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+Listening on 127.0.0.1:62836
+1628086177666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilesPkLwl"
+*** You are running in headless mode.
+1628086177994	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilesPkLwl\\search.json.mozlz4", (void 0)))
+1628086179304	Marionette	INFO	Listening on port 63442
+1628086179716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628086179719	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62835","sslProxy":"127.0.0.1:62835"}
+1628086692410	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileQKHDGc"
+*** You are running in headless mode.
+1628086215995	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileQKHDGc\\search.json.mozlz4", (void 0)))
+1628086217221	Marionette	INFO	Listening on port 54857
+1628086217710	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628086217714	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54850","sslProxy":"127.0.0.1:54850"}
+1628086730371	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileI8SeMW"
+*** You are running in headless mode.
+1628086314191	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileI8SeMW\\search.json.mozlz4", (void 0)))
+1628086315418	Marionette	INFO	Listening on port 63121
+1628086315930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628086315933	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:65181","sslProxy":"127.0.0.1:65181"}
+1628086828558	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+s\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileJNmh5k"
+*** You are running in headless mode.
+1628086814703	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileJNmh5k\\search.json.mozlz4", (void 0)))
+1628086815913	Marionette	INFO	Listening on port 60058
+1628086816422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628086816425	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:60052","sslProxy":"127.0.0.1:60052"}
+1628087329093	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileub8g8K"
+*** You are running in headless mode.
+1628086930389	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileub8g8K\\search.json.mozlz4", (void 0)))
+1628086931704	Marionette	INFO	Listening on port 56182
+1628086932100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628086932105	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:56176","sslProxy":"127.0.0.1:56176"}
+1628087444777	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+s\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileNsBj0e"
+*** You are running in headless mode.
+1628087017208	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileNsBj0e\\search.json.mozlz4", (void 0)))
+1628087018610	Marionette	INFO	Listening on port 57886
+1628087018905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628087018909	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:57880","sslProxy":"127.0.0.1:57880"}
+1628087028446	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628087240572	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628087531570	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile8TcseK"
+*** You are running in headless mode.
+1628087473852	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile8TcseK\\search.json.mozlz4", (void 0)))
+1628087475178	Marionette	INFO	Listening on port 49394
+1628087475533	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628087475536	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:49388","sslProxy":"127.0.0.1:49388"}
+1628087988185	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXKGWWn"
+*** You are running in headless mode.
+1628087551514	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXKGWWn\\search.json.mozlz4", (void 0)))
+1628087552845	Marionette	INFO	Listening on port 51179
+1628087553198	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628087553201	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:64629","sslProxy":"127.0.0.1:64629"}
+1628088065913	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileA5qvCd"
+1628088208918	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileA5qvCd\\search.json.mozlz4", (void 0)))
+1628088211855	Marionette	INFO	Listening on port 61310
+1628088212221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628088212224	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:59923","sslProxy":"127.0.0.1:59923"}
+1628088223066	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628088337968	Marionette	INFO	Stopped listening on port 61310
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628088348977	geckodriver	INFO	Listening on 127.0.0.1:61719
+1628088349505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilecz8GiK"
+1628088349892	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilecz8GiK\\search.json.mozlz4", (void 0)))
+1628088352495	Marionette	INFO	Listening on port 61724
+1628088352699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628088352702	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61718","sslProxy":"127.0.0.1:61718"}
+1628088420575	Marionette	INFO	Stopped listening on port 61724
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628088423423	geckodriver	INFO	Listening on 127.0.0.1:56936
+1628088423952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilegEDfC8"
+1628088424328	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilegEDfC8\\search.json.mozlz4", (void 0)))
+1628088427017	Marionette	INFO	Listening on port 56943
+1628088427149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628088427153	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:56935","sslProxy":"127.0.0.1:56935"}
+1628088438248	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628088596278	Marionette	INFO	Stopped listening on port 56943
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilemrUdV2"
+1628088511727	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilemrUdV2\\search.json.mozlz4", (void 0)))
+1628088514387	Marionette	INFO	Listening on port 51836
+1628088514527	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628088514530	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51830","sslProxy":"127.0.0.1:51830"}
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2156:35
+addAllSources@resource://devtools/server/actors/thread.js:1509:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:235:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:156:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:47:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:480:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:422:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false;'
+1628088595547	Marionette	INFO	Stopped listening on port 51836
+8088592435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileAvBvYQ"
+1628088592855	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileAvBvYQ\\search.json.mozlz4", (void 0)))
+1628088596447	Marionette	INFO	Listening on port 54035
+1628088596634	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628088596639	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54029","sslProxy":"127.0.0.1:54029"}
+SourceActor threw an exception: [Exception... "Failed to open input source 'javascript:false;'"  nsresult: "0x80040111 (NS_ERROR_NOT_AVAILABLE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 670"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:670:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/sources-manager.js:439:22
+urlContents@resource://devtools/server/actors/utils/sources-manager.js:406:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2156:35
+addAllSources@resource://devtools/server/actors/thread.js:1509:14
+watch@resource://devtools/server/actors/resources/sources.js:52:17
+watchResources@resource://devtools/server/actors/resources/index.js:235:19
+_watchTargetResources@resource://devtools/server/actors/targets/target-actor-mixin.js:156:24
+addWatcherDataEntry@resource://devtools/server/actors/targets/target-actor-mixin.js:47:20
+_addWatcherDataEntry@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:480:24
+receiveMessage@resource://devtools/server/connectors/js-window-actor/DevToolsFrameChild.jsm:422:21
+Line: 670, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 670: NS_ERROR_NOT_AVAILABLE: Failed to open input source 'javascript:false;'
+1628088683598	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628088770637	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628088816961	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628088964169	Marionette	INFO	Stopped listening on port 54035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628089102176	geckodriver	INFO	Listening on 127.0.0.1:54852
+1628089102702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiletPeAM8"
+*** You are running in headless mode.
+1628089103061	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiletPeAM8\\search.json.mozlz4", (void 0)))
+1628089104336	Marionette	INFO	Listening on port 55791
+1628089104737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628089104740	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54851","sslProxy":"127.0.0.1:54851"}
+1628089617462	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileyrGmSL"
+*** You are running in headless mode.
+1628089179454	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileyrGmSL\\search.json.mozlz4", (void 0)))
+1628089180842	Marionette	INFO	Listening on port 62221
+1628089181101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628089181104	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62214","sslProxy":"127.0.0.1:62214"}
+1628089693858	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+1628089803078	geckodriver	INFO	Listening on 127.0.0.1:53308
+1628089803605	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileHDtzaF"
+*** You are running in headless mode.
+1628089804040	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileHDtzaF\\search.json.mozlz4", (void 0)))
+1628089805511	Marionette	INFO	Listening on port 53314
+1628089805668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628089805672	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53307","sslProxy":"127.0.0.1:53307"}
+1628090318473	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilefnY8ok"
+*** You are running in headless mode.
+1628089951478	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilefnY8ok\\search.json.mozlz4", (void 0)))
+1628089952960	Marionette	INFO	Listening on port 55538
+1628089953147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628089953150	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:54693","sslProxy":"127.0.0.1:54693"}
+1628089974845	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628089986763	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628090206170	geckodriver	INFO	Listening on 127.0.0.1:57564
+1628090206710	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileLfbsRK"
+*** You are running in headless mode.
+1628090207105	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileLfbsRK\\search.json.mozlz4", (void 0)))
+1628090208549	Marionette	INFO	Listening on port 50680
+1628090208767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628090208769	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:57563","sslProxy":"127.0.0.1:57563"}
+1628090721487	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilePcqp3F"
+*** You are running in headless mode.
+1628090303912	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilePcqp3F\\search.json.mozlz4", (void 0)))
+1628090921771	geckodriver	INFO	Listening on 127.0.0.1:53893
+1628090922302	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileVI7H6B"
+*** You are running in headless mode.
+1628090922711	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileVI7H6B\\search.json.mozlz4", (void 0)))
+1628090924127	Marionette	INFO	Listening on port 59697
+1628090924351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628090924355	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:53892","sslProxy":"127.0.0.1:53892"}
+1628091437071	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXtr75c"
+*** You are running in headless mode.
+1628090991770	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXtr75c\\search.json.mozlz4", (void 0)))
+1628090993220	Marionette	INFO	Listening on port 61357
+1628090993409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628090993411	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:61351","sslProxy":"127.0.0.1:61351"}
+1628091111767	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091209164	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091221030	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091247630	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091506175	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+Exiting due to channel error.
+28091587299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilevHrKPo"
+*** You are running in headless mode.
+1628091587798	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilevHrKPo\\search.json.mozlz4", (void 0)))
+1628091589187	Marionette	INFO	Listening on port 62370
+1628091589352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628091589357	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:62364","sslProxy":"127.0.0.1:62364"}
+1628092102150	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+Exiting due to channel error.
+headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilelulEwl"
+*** You are running in headless mode.
+1628091679274	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilelulEwl\\search.json.mozlz4", (void 0)))
+1628091680722	Marionette	INFO	Listening on port 51140
+1628091680851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628091680854	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:51133","sslProxy":"127.0.0.1:51133"}
+1628092193688	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileFHmb2V"
+*** You are running in headless mode.
+1628091757891	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileFHmb2V\\search.json.mozlz4", (void 0)))
+1628091759442	Marionette	INFO	Listening on port 50978
+1628091759491	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628091759498	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:50972","sslProxy":"127.0.0.1:50972"}
+1628092272264	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+Exiting due to channel error.
+\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileGy7GvR"
+*** You are running in headless mode.
+1628091842560	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileGy7GvR\\search.json.mozlz4", (void 0)))
+1628091844011	Marionette	INFO	Listening on port 65024
+1628091844189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628091844192	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","httpProxy":"127.0.0.1:65018","sslProxy":"127.0.0.1:65018"}
+1628091858075	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091872247	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091879818	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091949185	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091970378	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628091984841	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092020704	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092034636	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092048748	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092056326	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092064235	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092078596	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092125010	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092132795	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092154883	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092162089	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092185899	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092199951	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092213813	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092221163	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092228792	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628092356916	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1628099131354	geckodriver	INFO	Listening on 127.0.0.1:57282
+1628099131890	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileVecdOv"
+*** You are running in headless mode.
+1628099132589	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileVecdOv\\search.json.mozlz4", (void 0)))
+1628099134053	Marionette	INFO	Listening on port 57287
+1628099134543	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+Exiting due to channel error.
+for this session
+1628099255543	Marionette	INFO	Stopped listening on port 52094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628099431344	geckodriver	INFO	Listening on 127.0.0.1:60422
+1628099431366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileuXyWkk"
+*** You are running in headless mode.
+1628099431653	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileuXyWkk\\search.json.mozlz4", (void 0)))
+1628099432766	Marionette	INFO	Listening on port 60427
+1628099432919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628099831877	geckodriver	INFO	Listening on 127.0.0.1:49760
+1628099832422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileMYeSHn"
+*** You are running in headless mode.
+1628099833114	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileMYeSHn\\search.json.mozlz4", (void 0)))
+1628099834729	Marionette	INFO	Listening on port 49765
+1628099835084	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+ng on 127.0.0.1:49915
+1628100025883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilep30V70"
+*** You are running in headless mode.
+1628100026195	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilep30V70\\search.json.mozlz4", (void 0)))
+1628100027563	Marionette	INFO	Listening on port 49920
+1628100027957	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390147,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 2840, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1628100932997	Marionette	INFO	Stopped listening on port 49920
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+nsole.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+nored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+658743	geckodriver	INFO	Listening on 127.0.0.1:59409
+1628100658751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileD2RGkS"
+*** You are running in headless mode.
+1628100659077	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileD2RGkS\\search.json.mozlz4", (void 0)))
+1628100660240	Marionette	INFO	Listening on port 59414
+1628100660326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628100691061	geckodriver	INFO	Listening on 127.0.0.1:59483
+1628100691070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileWgILf9"
+*** You are running in headless mode.
+1628100691419	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileWgILf9\\search.json.mozlz4", (void 0)))
+1628100692664	Marionette	INFO	Listening on port 59488
+1628100693118	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628100964524	geckodriver	INFO	Listening on 127.0.0.1:52147
+1628100965049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileO77oxt"
+*** You are running in headless mode.
+1628100965383	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileO77oxt\\search.json.mozlz4", (void 0)))
+1628100966366	Marionette	INFO	Listening on port 52152
+1628100966594	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628101064288	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628101093546	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628101128916	Marionette	INFO	Stopped listening on port 52152
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628101848060	geckodriver	INFO	Listening on 127.0.0.1:64755
+1628101848103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilea2ij1s"
+*** You are running in headless mode.
+1628101848505	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilea2ij1s\\search.json.mozlz4", (void 0)))
+1628101849851	Marionette	INFO	Listening on port 64760
+1628101850160	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+899050	geckodriver	INFO	Listening on 127.0.0.1:50039
+1628101899085	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileDEhgtO"
+*** You are running in headless mode.
+1628101899388	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileDEhgtO\\search.json.mozlz4", (void 0)))
+1628101900386	Marionette	INFO	Listening on port 50044
+1628101900636	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Listening on 127.0.0.1:52233
+1628102623860	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileagt1ND"
+*** You are running in headless mode.
+1628102624160	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileagt1ND\\search.json.mozlz4", (void 0)))
+1628102625172	Marionette	INFO	Listening on port 52238
+1628102625395	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+ain/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+p\\rust_mozprofileXAzf2d"
+*** You are running in headless mode.
+1628103291643	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXAzf2d\\search.json.mozlz4", (void 0)))
+1628103292851	Marionette	INFO	Listening on port 51752
+1628103292877	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+nored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: ReExiting due to channel error.
+cices.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+103732528	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileIQrODI"
+*** You are running in headless mode.
+1628103732858	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileIQrODI\\search.json.mozlz4", (void 0)))
+1628103734046	Marionette	INFO	Listening on port 52440
+1628103734064	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+re failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+104055001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileAehJjE"
+*** You are running in headless mode.
+1628104055333	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileAehJjE\\search.json.mozlz4", (void 0)))
+1628104056592	Marionette	INFO	Listening on port 63776
+1628104057073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628104097434	geckodriver	INFO	Listening on 127.0.0.1:63404
+1628104097444	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileFDPHD4"
+*** You are running in headless mode.
+1628104097835	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileFDPHD4\\search.json.mozlz4", (void 0)))
+1628104099143	Marionette	INFO	Listening on port 63409
+1628104099488	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+r: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+ 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+nored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+28104270740	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileGLRzGw"
+*** You are running in headless mode.
+1628104271112	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileGLRzGw\\search.json.mozlz4", (void 0)))
+1628104272472	Marionette	INFO	Listening on port 54095
+1628104272780	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+ificate errors will be ignored for this session
+1628104324650	Marionette	INFO	Stopped listening on port 56191
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628104398813	geckodriver	INFO	Listening on 127.0.0.1:49153
+1628104398823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileyXdJZR"
+*** You are running in headless mode.
+1628104399191	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileyXdJZR\\search.json.mozlz4", (void 0)))
+1628104400519	Marionette	INFO	Listening on port 49158
+1628104400871	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXBSplX"
+*** You are running in headless mode.
+1628104414872	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXBSplX\\search.json.mozlz4", (void 0)))
+1628104416184	Marionette	INFO	Listening on port 64702
+1628104416564	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628105624787	geckodriver	INFO	Listening on 127.0.0.1:52248
+1628105625318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilePvpD2W"
+*** You are running in headless mode.
+1628105625962	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilePvpD2W\\search.json.mozlz4", (void 0)))
+1628105627217	Marionette	INFO	Listening on port 52253
+1628105627369	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628105657800	geckodriver	INFO	Listening on 127.0.0.1:52324
+1628105657810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileqnzOX6"
+1628105658171	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileqnzOX6\\search.json.mozlz4", (void 0)))
+1628105660079	Marionette	INFO	Listening on port 52329
+1628105660466	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628105667113	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628105702968	Marionette	INFO	Stopped listening on port 52329
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628105714238	geckodriver	INFO	Listening on 127.0.0.1:52401
+1628105714244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile6nD4dq"
+*** You are running in headless mode.
+1628105714553	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile6nD4dq\\search.json.mozlz4", (void 0)))
+1628105715546	Marionette	INFO	Listening on port 52407
+1628105715792	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+nored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: RExiting due to channel error.
+roviders Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile55m2A2"
+*** You are running in headless mode.
+1628106532602	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile55m2A2\\search.json.mozlz4", (void 0)))
+1628106533601	Marionette	INFO	Listening on port 52746
+1628106533822	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628106630425	geckodriver	INFO	Listening on 127.0.0.1:52835
+1628106630435	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileLR6mVi"
+*** You are running in headless mode.
+1628106630832	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileLR6mVi\\search.json.mozlz4", (void 0)))
+1628106632014	Marionette	INFO	Listening on port 52840
+1628106632486	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628108725248	Marionette	INFO	Stopped listening on port 52840
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628130042935	geckodriver	INFO	Listening on 127.0.0.1:52047
+1628130043480	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileT8IALo"
+*** You are running in headless mode.
+1628130046138	geckodriver	INFO	Listening on 127.0.0.1:52057
+1628130046149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileuJZ7DQ"
+*** You are running in headless mode.
+1628130046727	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileuJZ7DQ\\search.json.mozlz4", (void 0)))
+1628130048265	Marionette	INFO	Listening on port 52062
+1628130048317	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+ner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilefNkkWS"
+*** You are running in headless mode.
+1628130838250	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilefNkkWS\\search.json.mozlz4", (void 0)))
+1628130840842	Marionette	INFO	Listening on port 58677
+1628130841214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628131063587	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileqGMSD8"
+*** You are running in headless mode.
+1628132561786	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileqGMSD8\\search.json.mozlz4", (void 0)))
+1628132564313	Marionette	INFO	Listening on port 60321
+1628132564524	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628132590599	geckodriver	INFO	Listening on 127.0.0.1:51977
+1628132590655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilepn8q8X"
+*** You are running in headless mode.
+1628132591772	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilepn8q8X\\search.json.mozlz4", (void 0)))
+1628132594186	Marionette	INFO	Listening on port 51982
+1628132594335	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628132987509	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+NFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilep7oZbv"
+*** You are running in headless mode.
+1628133126402	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilep7oZbv\\search.json.mozlz4", (void 0)))
+1628133129076	Marionette	INFO	Listening on port 59627
+1628133160771	geckodriver	INFO	Listening on 127.0.0.1:59679
+1628133161331	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileH2suZX"
+1628133162771	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileH2suZX\\search.json.mozlz4", (void 0)))
+1628133166912	Marionette	INFO	Listening on port 59684
+1628133277983	Marionette	INFO	Stopped listening on port 59684
+1628134300754	geckodriver	INFO	Listening on 127.0.0.1:50232
+1628134301354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilefjcska"
+*** You are running in headless mode.
+1628134302795	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilefjcska\\search.json.mozlz4", (void 0)))
+1628134304891	Marionette	INFO	Listening on port 50237
+1628134305058	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628134337490	geckodriver	INFO	Listening on 127.0.0.1:50295
+1628134337547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilehm01Gm"
+*** You are running in headless mode.
+1628134338051	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilehm01Gm\\search.json.mozlz4", (void 0)))
+1628134339556	Marionette	INFO	Listening on port 50300
+1628134339631	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628134420975	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628134425005	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628134432746	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628134436675	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628134471602	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628134475608	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.error: services.settings: 
+  main/message-groups Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1628134483578	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628134487661	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628134495749	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628134511438	geckodriver	INFO	Listening on 127.0.0.1:50419
+1628134511477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile9FSIDO"
+*** You are running in headless mode.
+1628134512161	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile9FSIDO\\search.json.mozlz4", (void 0)))
+1628134513758	Marionette	INFO	Listening on port 50424
+1628134514148	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628135064892	geckodriver	INFO	Listening on 127.0.0.1:52122
+1628135064926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileT0zdcq"
+*** You are running in headless mode.
+1628135065579	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileT0zdcq\\search.json.mozlz4", (void 0)))
+1628135067217	Marionette	INFO	Listening on port 52127
+1628135067632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628135191632	geckodriver	INFO	Listening on 127.0.0.1:62559
+1628135191713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXIsNeI"
+*** You are running in headless mode.
+1628135192359	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXIsNeI\\search.json.mozlz4", (void 0)))
+1628135194233	Marionette	INFO	Listening on port 62564
+1628135194378	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628135247432	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628135271112	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628135275137	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628135313481	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628135411326	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+1628135635818	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628135639829	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628135647443	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1628135659154	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1628136407077	geckodriver	INFO	Listening on 127.0.0.1:63299
+1628136407175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile9NHD3C"
+*** You are running in headless mode.
+1628136407870	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile9NHD3C\\search.json.mozlz4", (void 0)))
+1628136409572	Marionette	INFO	Listening on port 63304
+1628136409876	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1628136689012	geckodriver	INFO	Listening on 127.0.0.1:63339
+1628136689063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilevet3JE"
+*** You are running in headless mode.
+1628136689748	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilevet3JE\\search.json.mozlz4", (void 0)))
+1628136691963	Marionette	INFO	Listening on port 63345
+1628136692253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628136737640	Marionette	INFO	Stopped listening on port 63345
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628136739163	geckodriver	INFO	Listening on 127.0.0.1:63421
+1628136739690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileKvaFOZ"
+*** You are running in headless mode.
+1628136740360	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileKvaFOZ\\search.json.mozlz4", (void 0)))
+1628136741995	Marionette	INFO	Listening on port 63426
+1628136742395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628136789744	Marionette	INFO	Stopped listening on port 63426
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628136791733	geckodriver	INFO	Listening on 127.0.0.1:60508
+1628136792262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileHIqfby"
+*** You are running in headless mode.
+1628136792956	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileHIqfby\\search.json.mozlz4", (void 0)))
+1628136794890	Marionette	INFO	Listening on port 60514
+1628136794946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628136839840	Marionette	INFO	Stopped listening on port 60514
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628136841272	geckodriver	INFO	Listening on 127.0.0.1:62748
+1628136841843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileSTA7Hp"
+*** You are running in headless mode.
+1628136842870	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileSTA7Hp\\search.json.mozlz4", (void 0)))
+1628136844904	Marionette	INFO	Listening on port 62753
+1628136845065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628136891305	Marionette	INFO	Stopped listening on port 62753
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628136893415	geckodriver	INFO	Listening on 127.0.0.1:50553
+1628136893991	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileV9bKci"
+*** You are running in headless mode.
+1628136895435	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileV9bKci\\search.json.mozlz4", (void 0)))
+1628136898021	Marionette	INFO	Listening on port 50558
+1628136898190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628136945163	Marionette	INFO	Stopped listening on port 50558
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628136947019	geckodriver	INFO	Listening on 127.0.0.1:53574
+1628136947550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileswVruI"
+*** You are running in headless mode.
+1628136948450	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileswVruI\\search.json.mozlz4", (void 0)))
+1628136950577	Marionette	INFO	Listening on port 53579
+1628136950743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628136996540	Marionette	INFO	Stopped listening on port 53579
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628136998569	geckodriver	INFO	Listening on 127.0.0.1:64308
+1628136999112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileArnFu6"
+*** You are running in headless mode.
+1628136999748	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileArnFu6\\search.json.mozlz4", (void 0)))
+1628137001716	Marionette	INFO	Listening on port 64313
+1628137001843	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137048419	Marionette	INFO	Stopped listening on port 64313
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137050355	geckodriver	INFO	Listening on 127.0.0.1:64379
+1628137050924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiles3AwN8"
+*** You are running in headless mode.
+1628137051542	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiles3AwN8\\search.json.mozlz4", (void 0)))
+1628137053265	Marionette	INFO	Listening on port 64384
+1628137053600	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137097858	Marionette	INFO	Stopped listening on port 64384
+1628137099299	geckodriver	INFO	Listening on 127.0.0.1:64446
+1628137099837	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile3ztR0c"
+*** You are running in headless mode.
+1628137100494	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile3ztR0c\\search.json.mozlz4", (void 0)))
+1628137102822	Marionette	INFO	Listening on port 64451
+1628137103044	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137148094	Marionette	INFO	Stopped listening on port 64451
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137149880	geckodriver	INFO	Listening on 127.0.0.1:64522
+1628137150406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileAFVsEr"
+*** You are running in headless mode.
+1628137151345	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileAFVsEr\\search.json.mozlz4", (void 0)))
+1628137153302	Marionette	INFO	Listening on port 64527
+1628137153622	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137199763	Marionette	INFO	Stopped listening on port 64527
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137210330	geckodriver	INFO	Listening on 127.0.0.1:64595
+1628137210439	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilembiVde"
+*** You are running in headless mode.
+1628137211188	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilembiVde\\search.json.mozlz4", (void 0)))
+1628137213223	Marionette	INFO	Listening on port 64600
+1628137213657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137262650	Marionette	INFO	Stopped listening on port 64600
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137264397	geckodriver	INFO	Listening on 127.0.0.1:64684
+1628137529052	geckodriver	INFO	Listening on 127.0.0.1:64693
+1628137529093	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileLmUoRB"
+*** You are running in headless mode.
+1628137529769	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileLmUoRB\\search.json.mozlz4", (void 0)))
+1628137531758	Marionette	INFO	Listening on port 64698
+1628137532379	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137579540	Marionette	INFO	Stopped listening on port 64698
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137581600	geckodriver	INFO	Listening on 127.0.0.1:64768
+1628137582117	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileYbBJrU"
+*** You are running in headless mode.
+1628137582853	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileYbBJrU\\search.json.mozlz4", (void 0)))
+1628137585199	Marionette	INFO	Listening on port 64773
+1628137585337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137631013	Marionette	INFO	Stopped listening on port 64773
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137631579	geckodriver	INFO	Listening on 127.0.0.1:64839
+1628137632103	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilehyayiq"
+*** You are running in headless mode.
+1628137632391	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilehyayiq\\search.json.mozlz4", (void 0)))
+1628137633421	Marionette	INFO	Listening on port 64844
+1628137633626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137677815	Marionette	INFO	Stopped listening on port 64844
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137678381	geckodriver	INFO	Listening on 127.0.0.1:64912
+1628137678917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileEHfxBh"
+*** You are running in headless mode.
+1628137679211	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileEHfxBh\\search.json.mozlz4", (void 0)))
+1628137680210	Marionette	INFO	Listening on port 64917
+1628137680445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137724472	Marionette	INFO	Stopped listening on port 64917
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137725038	geckodriver	INFO	Listening on 127.0.0.1:64984
+1628137725592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilefkQCoE"
+*** You are running in headless mode.
+1628137725883	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilefkQCoE\\search.json.mozlz4", (void 0)))
+1628137726873	Marionette	INFO	Listening on port 64989
+1628137727124	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137768894	Marionette	INFO	Stopped listening on port 64989
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137769521	geckodriver	INFO	Listening on 127.0.0.1:51531
+1628137770051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileKioXUQ"
+*** You are running in headless mode.
+1628137770368	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileKioXUQ\\search.json.mozlz4", (void 0)))
+1628137771464	Marionette	INFO	Listening on port 51536
+1628137771584	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137814074	Marionette	INFO	Stopped listening on port 51536
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137814640	geckodriver	INFO	Listening on 127.0.0.1:52423
+1628137815161	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile3nBRFR"
+*** You are running in headless mode.
+1628137815459	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile3nBRFR\\search.json.mozlz4", (void 0)))
+1628137816488	Marionette	INFO	Listening on port 52428
+1628137816689	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137860635	Marionette	INFO	Stopped listening on port 52428
+1628137861215	geckodriver	INFO	Listening on 127.0.0.1:62276
+1628137861734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile2E9tIx"
+*** You are running in headless mode.
+1628137862038	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile2E9tIx\\search.json.mozlz4", (void 0)))
+1628137863085	Marionette	INFO	Listening on port 62281
+1628137863285	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137906247	Marionette	INFO	Stopped listening on port 62281
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137906822	geckodriver	INFO	Listening on 127.0.0.1:59250
+1628137907365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileUYTxfI"
+*** You are running in headless mode.
+1628137907666	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileUYTxfI\\search.json.mozlz4", (void 0)))
+1628137908671	Marionette	INFO	Listening on port 59255
+1628137908890	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137952137	Marionette	INFO	Stopped listening on port 59255
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137952727	geckodriver	INFO	Listening on 127.0.0.1:59324
+1628137953266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile7Slfz9"
+*** You are running in headless mode.
+1628137953556	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile7Slfz9\\search.json.mozlz4", (void 0)))
+1628137954525	Marionette	INFO	Listening on port 59329
+1628137954818	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628137998771	Marionette	INFO	Stopped listening on port 59329
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628137999336	geckodriver	INFO	Listening on 127.0.0.1:59396
+1628137999872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile9iuSd6"
+*** You are running in headless mode.
+1628138000171	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile9iuSd6\\search.json.mozlz4", (void 0)))
+1628138001159	Marionette	INFO	Listening on port 59401
+1628138001399	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138044544	Marionette	INFO	Stopped listening on port 59401
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138045156	geckodriver	INFO	Listening on 127.0.0.1:51263
+1628138045676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileeMGENO"
+*** You are running in headless mode.
+1628138045982	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileeMGENO\\search.json.mozlz4", (void 0)))
+1628138047009	Marionette	INFO	Listening on port 51268
+1628138047228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138089818	Marionette	INFO	Stopped listening on port 51268
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138090382	geckodriver	INFO	Listening on 127.0.0.1:62477
+1628138090914	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilenHITUn"
+*** You are running in headless mode.
+1628138091204	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilenHITUn\\search.json.mozlz4", (void 0)))
+1628138092212	Marionette	INFO	Listening on port 62482
+1628138092445	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138138139	Marionette	INFO	Stopped listening on port 62482
+1628138138720	geckodriver	INFO	Listening on 127.0.0.1:62551
+1628138139243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile4jBliG"
+*** You are running in headless mode.
+1628138139544	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile4jBliG\\search.json.mozlz4", (void 0)))
+1628138140550	Marionette	INFO	Listening on port 62556
+1628138140785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138183857	Marionette	INFO	Stopped listening on port 62556
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138184490	geckodriver	INFO	Listening on 127.0.0.1:51986
+1628138185045	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiled94E80"
+*** You are running in headless mode.
+1628138185367	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiled94E80\\search.json.mozlz4", (void 0)))
+1628138186387	Marionette	INFO	Listening on port 51991
+1628138186583	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138229053	Marionette	INFO	Stopped listening on port 51991
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138229633	geckodriver	INFO	Listening on 127.0.0.1:60587
+1628138230154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile4N1FXV"
+*** You are running in headless mode.
+1628138230479	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile4N1FXV\\search.json.mozlz4", (void 0)))
+1628138231476	Marionette	INFO	Listening on port 60592
+1628138231683	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138274757	Marionette	INFO	Stopped listening on port 60592
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138275366	geckodriver	INFO	Listening on 127.0.0.1:64818
+1628138275899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileSQkuTx"
+*** You are running in headless mode.
+1628138276232	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileSQkuTx\\search.json.mozlz4", (void 0)))
+1628138277285	Marionette	INFO	Listening on port 64823
+1628138277424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138319906	Marionette	INFO	Stopped listening on port 64823
+1628138320535	geckodriver	INFO	Listening on 127.0.0.1:62552
+1628138321086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXsOnzK"
+*** You are running in headless mode.
+1628138321406	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXsOnzK\\search.json.mozlz4", (void 0)))
+1628138322627	Marionette	INFO	Listening on port 62558
+1628138323153	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138363835	Marionette	INFO	Stopped listening on port 62558
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138364452	geckodriver	INFO	Listening on 127.0.0.1:53527
+1628138365017	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilevW8RtI"
+*** You are running in headless mode.
+1628138365330	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilevW8RtI\\search.json.mozlz4", (void 0)))
+1628138366467	Marionette	INFO	Listening on port 55202
+1628138366576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138406898	Marionette	INFO	Stopped listening on port 55202
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138407530	geckodriver	INFO	Listening on 127.0.0.1:55271
+1628138408067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilexxniAT"
+*** You are running in headless mode.
+1628138408404	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilexxniAT\\search.json.mozlz4", (void 0)))
+1628138409678	Marionette	INFO	Listening on port 55276
+1628138410139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138451531	Marionette	INFO	Stopped listening on port 55276
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138452156	geckodriver	INFO	Listening on 127.0.0.1:49577
+1628138452702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileuEpUfH"
+*** You are running in headless mode.
+1628138453038	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileuEpUfH\\search.json.mozlz4", (void 0)))
+1628138454276	Marionette	INFO	Listening on port 49582
+1628138454777	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138506751	Marionette	INFO	Stopped listening on port 49582
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138699452	geckodriver	INFO	Listening on 127.0.0.1:50320
+1628138699485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileq3MQcZ"
+*** You are running in headless mode.
+1628138699825	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileq3MQcZ\\search.json.mozlz4", (void 0)))
+1628138700996	Marionette	INFO	Listening on port 50325
+1628138701016	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138741755	Marionette	INFO	Stopped listening on port 50325
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138742354	geckodriver	INFO	Listening on 127.0.0.1:64349
+1628138742895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileUh4xZW"
+*** You are running in headless mode.
+1628138743207	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileUh4xZW\\search.json.mozlz4", (void 0)))
+1628138744251	Marionette	INFO	Listening on port 52112
+1628138744426	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138786170	Marionette	INFO	Stopped listening on port 52112
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138786735	geckodriver	INFO	Listening on 127.0.0.1:52596
+1628138787272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileC3K17S"
+*** You are running in headless mode.
+1628138787578	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileC3K17S\\search.json.mozlz4", (void 0)))
+1628138788581	Marionette	INFO	Listening on port 52601
+1628138788798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138832836	Marionette	INFO	Stopped listening on port 52601
+1628138833548	geckodriver	INFO	Listening on 127.0.0.1:52678
+1628138834105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileOmeJIe"
+*** You are running in headless mode.
+1628138834403	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileOmeJIe\\search.json.mozlz4", (void 0)))
+1628138835381	Marionette	INFO	Listening on port 52683
+1628138835633	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138877244	Marionette	INFO	Stopped listening on port 52683
+1628138877872	geckodriver	INFO	Listening on 127.0.0.1:58299
+1628138878399	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileR15sd2"
+*** You are running in headless mode.
+1628138878758	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileR15sd2\\search.json.mozlz4", (void 0)))
+1628138880177	Marionette	INFO	Listening on port 58304
+1628138880459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138924611	Marionette	INFO	Stopped listening on port 58304
+1628138925192	geckodriver	INFO	Listening on 127.0.0.1:63188
+1628138925767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiletvGClh"
+*** You are running in headless mode.
+1628138926059	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofiletvGClh\\search.json.mozlz4", (void 0)))
+1628138927188	Marionette	INFO	Listening on port 63193
+1628138927303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628138970641	Marionette	INFO	Stopped listening on port 63193
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628138971221	geckodriver	INFO	Listening on 127.0.0.1:63259
+1628138971788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileRlBUZK"
+*** You are running in headless mode.
+1628138972083	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileRlBUZK\\search.json.mozlz4", (void 0)))
+1628138973094	Marionette	INFO	Listening on port 63264
+1628138973322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139017347	Marionette	INFO	Stopped listening on port 63264
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139017978	geckodriver	INFO	Listening on 127.0.0.1:63332
+1628139018515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileasW7YB"
+*** You are running in headless mode.
+1628139018828	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileasW7YB\\search.json.mozlz4", (void 0)))
+1628139019956	Marionette	INFO	Listening on port 63337
+1628139020073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139062982	Marionette	INFO	Stopped listening on port 63337
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139063561	geckodriver	INFO	Listening on 127.0.0.1:63404
+1628139064097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileIY57c6"
+*** You are running in headless mode.
+1628139064442	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileIY57c6\\search.json.mozlz4", (void 0)))
+1628139065519	Marionette	INFO	Listening on port 63409
+1628139065624	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139110063	Marionette	INFO	Stopped listening on port 63409
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139110659	geckodriver	INFO	Listening on 127.0.0.1:63480
+1628139111195	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXlia5M"
+*** You are running in headless mode.
+1628139111528	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileXlia5M\\search.json.mozlz4", (void 0)))
+1628139112560	Marionette	INFO	Listening on port 63485
+1628139112723	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139155502	Marionette	INFO	Stopped listening on port 63485
+1628139156137	geckodriver	INFO	Listening on 127.0.0.1:63553
+1628139156672	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilea8KWU4"
+*** You are running in headless mode.
+1628139156977	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilea8KWU4\\search.json.mozlz4", (void 0)))
+1628139158009	Marionette	INFO	Listening on port 63558
+1628139158219	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139201046	Marionette	INFO	Stopped listening on port 63558
+1628139201602	geckodriver	INFO	Listening on 127.0.0.1:52533
+1628139202162	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileoRbmWp"
+*** You are running in headless mode.
+1628139202450	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileoRbmWp\\search.json.mozlz4", (void 0)))
+1628139203449	Marionette	INFO	Listening on port 52538
+1628139203687	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139246019	Marionette	INFO	Stopped listening on port 52538
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139246602	geckodriver	INFO	Listening on 127.0.0.1:52607
+1628139247188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileLlWEg1"
+*** You are running in headless mode.
+1628139247478	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileLlWEg1\\search.json.mozlz4", (void 0)))
+1628139248473	Marionette	INFO	Listening on port 52612
+1628139248708	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139293085	Marionette	INFO	Stopped listening on port 52612
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139293666	geckodriver	INFO	Listening on 127.0.0.1:52682
+1628139294219	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile8u4CD7"
+*** You are running in headless mode.
+1628139294507	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile8u4CD7\\search.json.mozlz4", (void 0)))
+1628139295500	Marionette	INFO	Listening on port 52687
+1628139295757	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139338324	Marionette	INFO	Stopped listening on port 52687
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139338904	geckodriver	INFO	Listening on 127.0.0.1:52754
+1628139339455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilezMypKS"
+*** You are running in headless mode.
+1628139339756	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilezMypKS\\search.json.mozlz4", (void 0)))
+1628139340773	Marionette	INFO	Listening on port 52759
+1628139340983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139383252	Marionette	INFO	Stopped listening on port 52759
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139383880	geckodriver	INFO	Listening on 127.0.0.1:52827
+1628139384433	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile4F8Nv7"
+*** You are running in headless mode.
+1628139384749	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofile4F8Nv7\\search.json.mozlz4", (void 0)))
+1628139385781	Marionette	INFO	Listening on port 52832
+1628139385967	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139429703	Marionette	INFO	Stopped listening on port 52832
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139430337	geckodriver	INFO	Listening on 127.0.0.1:52902
+1628139430869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileNGmfM2"
+*** You are running in headless mode.
+1628139431197	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileNGmfM2\\search.json.mozlz4", (void 0)))
+1628139432570	Marionette	INFO	Listening on port 52907
+1628139432915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139478790	Marionette	INFO	Stopped listening on port 52907
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139479387	geckodriver	INFO	Listening on 127.0.0.1:51475
+1628139479928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileG2qbEl"
+*** You are running in headless mode.
+1628139480253	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileG2qbEl\\search.json.mozlz4", (void 0)))
+1628139481256	Marionette	INFO	Listening on port 51480
+1628139481458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139523967	Marionette	INFO	Stopped listening on port 51480
+1628139524588	geckodriver	INFO	Listening on 127.0.0.1:57383
+1628139525135	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileJo4bpj"
+*** You are running in headless mode.
+1628139525467	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileJo4bpj\\search.json.mozlz4", (void 0)))
+1628139526629	Marionette	INFO	Listening on port 57388
+1628139526684	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139570134	Marionette	INFO	Stopped listening on port 57388
+1628139570699	geckodriver	INFO	Listening on 127.0.0.1:50980
+1628139571260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileBjvX0Z"
+*** You are running in headless mode.
+1628139571570	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofileBjvX0Z\\search.json.mozlz4", (void 0)))
+1628139572735	Marionette	INFO	Listening on port 50985
+1628139572817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1628139615902	Marionette	INFO	Stopped listening on port 50985
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1628139616497	geckodriver	INFO	Listening on 127.0.0.1:55512
+1628139617033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilesl59hP"
+*** You are running in headless mode.
+1628139617339	Marionette	INFO	Marionette enabled
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Mercer\\AppData\\Local\\Temp\\rust_mozprofilesl59hP\\search.json.mozlz4", (void 0)))
+1628139618357	Marionette	INFO	Listening on port 55517
+1628139618583	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: services.settings: 
+  main/doh-providers Signature failed  InvalidSignatureError: Invalid content signature (main/doh-providers)
+console.error: services.settings: 
+  main/doh-providers local data was corrupted
+console.warn: services.settings: main/doh-providers Signature verified failed. Retry from scratch
+console.error: services.settings: 
+  main/doh-config Signature failed  InvalidSignatureError: Invalid content signature (main/doh-config)
+console.error: services.settings: 
+  main/doh-config local data was corrupted
+console.warn: services.settings: main/doh-config Signature verified failed. Retry from scratch
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
